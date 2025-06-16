@@ -1,6 +1,7 @@
 {
   "name": "madamelasagna",
   "displayName": "Pink High Contrast Theme",
+  "publisher": "alyssapinnock",
   "description": "A dark high-contrast pink VSCode theme",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +18,11 @@
         "path": "./themes/PinkThemeDarkHighContrast-color-theme.json"
       }
     ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alyssapinnock/pink-vscode-theme"
+
   }
 }
