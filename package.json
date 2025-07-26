@@ -3,7 +3,7 @@
   "displayName": "Pink High Contrast Theme",
   "publisher": "madamelasagna",
   "description": "A dark high-contrast pink VSCode theme",
-  "version": "0.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.101.0"
   },
